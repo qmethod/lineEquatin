@@ -1,3 +1,6 @@
-# First Chapter
+## 問題
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Q1：在直角坐標平面上，一條直線有那些特徵可以描述一條直線？
+
+
+

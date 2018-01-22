@@ -1,3 +1,6 @@
-# My Awesome Book
+## 直線方程式
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+平面上的一條直線，要如呵描述它? 直線又有哪些性質?直線這些性質、定理又有何用途?
+
+
+
